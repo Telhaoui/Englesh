@@ -1,0 +1,220 @@
+# Start Form Designer File
+aObjectsList = [
+	[ :name = "Window" , :id = 1 , :classname = "formdesigner_qwidget" , :data = [
+		 :x = 3 , : y = 3  , 
+		 :width =  423 , :height = 478 , 
+		 :title =  "Form1" , 
+		 :backcolor =  "" , 
+		 :windowflags =  "" , 
+		 :mainlayout =  "" ,
+		 :WindowIcon =  "" , 
+		 :Menubar =  ""  ,
+		 :IndexType =  0  
+
+		]
+	],
+	[ :name = "Button1" , :id = 2 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 313 , : y = 77  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "تكبيرات العيد ",
+		 :BtnImage =  "",
+		 :setClickEvent =  "A"
+		]
+	],
+	[ :name = "Button2" , :id = 3 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 213 , : y = 77  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "قبل منامي ",
+		 :BtnImage =  "",
+		 :setClickEvent =  "b"
+		]
+	],
+	[ :name = "Button3" , :id = 4 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 113 , : y = 77  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "تبسم ",
+		 :BtnImage =  "",
+		 :setClickEvent =  "c"
+		]
+	],
+	[ :name = "Button4" , :id = 5 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 14 , : y = 172  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "تبسم تراني ",
+		 :BtnImage =  "",
+		 :setClickEvent =  "n"
+		]
+	],
+	[ :name = "Button5" , :id = 6 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 14 , : y = 127  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "سوف نبقى",
+		 :BtnImage =  "",
+		 :setClickEvent =  "j"
+		]
+	],
+	[ :name = "Button6" , :id = 7 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 113 , : y = 127  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "سلام عمر",
+		 :BtnImage =  "",
+		 :setClickEvent =  "i"
+		]
+	],
+	[ :name = "Button7" , :id = 8 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 213 , : y = 127  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  " حسن يارب ",
+		 :BtnImage =  "",
+		 :setClickEvent =  "f"
+		]
+	],
+	[ :name = "Button8" , :id = 9 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 313 , : y = 172  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "ياجنانا",
+		 :BtnImage =  "",
+		 :setClickEvent =  "k"
+		]
+	],
+	[ :name = "Button9" , :id = 10 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 313 , : y = 217  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "سلام كمسك",
+		 :BtnImage =  "",
+		 :setClickEvent =  "o"
+		]
+	],
+	[ :name = "Button10" , :id = 11 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 113 , : y = 172  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "يامرحبا ",
+		 :BtnImage =  "",
+		 :setClickEvent =  "m"
+		]
+	],
+	[ :name = "Button11" , :id = 12 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 213 , : y = 172  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "قلبي حيران",
+		 :BtnImage =  "",
+		 :setClickEvent =  "l"
+		]
+	],
+	[ :name = "Button12" , :id = 13 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 313 , : y = 127  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "يانبي سلام ",
+		 :BtnImage =  "",
+		 :setClickEvent =  "e"
+		]
+	],
+	[ :name = "Button13" , :id = 14 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 213 , : y = 217  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "مقام ",
+		 :BtnImage =  "",
+		 :setClickEvent =  "s"
+		]
+	],
+	[ :name = "Button14" , :id = 15 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 113 , : y = 217  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "مؤمن ",
+		 :BtnImage =  "",
+		 :setClickEvent =  "r"
+		]
+	],
+	[ :name = "Button15" , :id = 16 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 13 , : y = 217  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "صحبتك سمعتك",
+		 :BtnImage =  "",
+		 :setClickEvent =  "q"
+		]
+	],
+	[ :name = "Button16" , :id = 17 , :classname = "formdesigner_qpushbutton" , :data = [
+		 :x = 14 , : y = 77  , 
+		 :width =  88 , :height = 34 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arabic Typesetting,18,-1,5,50,0,0,0,0,0,Regular" , 
+		 :parent =  "win"  ,
+		 :text =  "مسكين قلبك",
+		 :BtnImage =  "",
+		 :setClickEvent =  "d"
+		]
+	],
+	[ :name = "Timer1" , :id = 18 , :classname = "formdesigner_qtimer" , :data = [
+		 :x = 9 , : y = 18  , 
+		 :width =  26 , :height = 25 , 
+		 :textcolor =  "black" , 
+		 :backcolor =  "" , 
+		 :font =  "Arial" , 
+		 :parent =  "win"  ,
+		 :Interval =  "10",
+		 :Timeout =  "start"
+		]
+	]
+]
+# End Form Designer File
